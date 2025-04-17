@@ -6,7 +6,7 @@ public class queue {
         // we add element in quueue from rear and remove from front
      // queue is a interface which is implememnted by many classes like linkedlist, arraydeque, priorityqueue etc
 
-
+bvbbb
         Queue<Integer>qq=new LinkedList<>();
          
 
